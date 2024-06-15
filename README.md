@@ -12,3 +12,5 @@ This project leverages facial embeddings, the VGG Face Model, and CNNs to accura
 ![Project Overview](https://github.com/Jamelia-G/Facial-Recognition/blob/dc31647b61eb46cb604bd397b32d8d663e6f083d/Screenshot_20240615_102925_PowerPoint.jpg)
 
 ![Data Preparation](https://github.com/Jamelia-G/Facial-Recognition/blob/56fc3a4c370d2cd16c5f33e8ee96ab32492c9a83/Screenshot_20240615_102931_PowerPoint.jpg)
+
+![Model](https://github.com/Jamelia-G/Facial-Recognition/blob/5e418c692f90b80c749a3ab1ad33d2c5ec71ea17/Screenshot_20240615_102944_PowerPoint.jpg)
